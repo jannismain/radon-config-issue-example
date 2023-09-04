@@ -1,0 +1,2 @@
+[tool.some_tool]
+some_option = "%(lineno)d"
